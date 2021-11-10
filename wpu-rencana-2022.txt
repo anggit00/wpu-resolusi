@@ -3,6 +3,7 @@ Recana 2022 WPU
   *Pelajari dasar java script
   *Pelajari framework javascript
     -VUE JS
+    -React js
 -Setruktur data
 -NODE JS
 -CSS LEARN
