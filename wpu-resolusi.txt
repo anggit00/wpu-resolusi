@@ -4,4 +4,4 @@ WPU RESOLUSI
 -Jadi Org kayaraya
 -Membuat App tani
 -Mengenalkan petani degan teknologi
--Forum diskusi online
+-Belajar java script
