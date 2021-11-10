@@ -1,8 +1,12 @@
 Recana 2022 WPU
 -JAVA SCRIPT
-*Pelajari dasar java script
-*Pelajari framework javascript
+  *Pelajari dasar java script
+  *Pelajari framework javascript
+    -VUE JS
+    -React js
 -Setruktur data
 -NODE JS
 -CSS LEARN
+  *selesaikan Latihan udemy
 -BUILD SOSIAL MEDIA PETANI
+-BANGUN TIM
