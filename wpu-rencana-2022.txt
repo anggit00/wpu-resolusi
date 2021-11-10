@@ -1,5 +1,7 @@
 Recana 2022 WPU
 -JAVA SCRIPT
+*Pelajari dasar java script
+*Pelajari framework javascript
 -NODE JS
 -CSS LEARN
 -BUILD SOSIAL MEDIA PETANI
