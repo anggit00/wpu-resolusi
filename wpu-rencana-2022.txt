@@ -4,6 +4,7 @@ Recana 2022 WPU
   *Pelajari framework javascript
     -VUE JS
     -React js
+    -Angular JS
 -Setruktur data
 -NODE JS
 -CSS LEARN
